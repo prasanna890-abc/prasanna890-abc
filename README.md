@@ -2,7 +2,7 @@
 My name is prasanna, I'm a computer scientist interested in all things Python & Data science. 
 - 🔭 I’m currently working on Cognitive Attendence and Behavior Analysis(CABA) project which is developing with help of OpenCV and DeepFace.
 - 🌱 I’m currently learning Machine Learning algorithms.
-- 👯 I’m looking to collaborate on projects that could change the world--- or at least peoples say, "Wow that's wild!"
+- 👯 I’m looking to collaborate on projects that could change the world--- or at least people say, "Wow that's wild!"
 <!--
 **prasanna890-abc/prasanna890-abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
